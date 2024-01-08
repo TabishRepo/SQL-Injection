@@ -1,8 +1,10 @@
-SQL Injection Mitigation using Burp Suite and OWASP
-Overview
+**SQL Injection Mitigation using Burp Suite and OWASP**
+
+**Overview**
+
 The 'SQL Injection Mitigation Framework' is a comprehensive approach designed for the detection, analysis, and prevention of SQL Injection attacks, one of the most prevalent security vulnerabilities in web applications. Utilizing the capabilities of Burp Suite in conjunction with the guidelines and tools provided by the OWASP (Open Web Application Security Project), this framework offers a robust solution to safeguard applications against malicious SQL Injection attempts.
 
-Features
+**Features**
 
 Data Input Sources: Utilizes HTTP requests and responses to analyze potential injection points.
 Processing Modules: Leverages Burp Suite's Intruder and Scanner features to automate the detection and exploitation of SQL Injection vulnerabilities.
@@ -10,7 +12,7 @@ Decision-Making Components: Integrates OWASP's SQL Injection Prevention Cheat Sh
 Why 'SQL Injection Mitigation Framework'?
 This framework is selected for its effectiveness in addressing the critical threat posed by SQL Injections. Benefits include the automation and depth of analysis provided by Burp Suite, coupled with the best practice guidelines from OWASP. It offers a multifaceted approach combining detection, exploitation, and prevention to enhance the security posture of web applications.
 
-Methodology
+**Methodology**
 
 **Defining Objectives:**
 Objective: Clearly define the goal of the project.
